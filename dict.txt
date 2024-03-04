@@ -1,0 +1,6 @@
+bull, dog: bulldog
+dog, muscular: bulldog
+sour, mug: bulldog
+pet, bark: dog
+tree, strip: bark
+
